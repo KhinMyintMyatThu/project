@@ -1,0 +1,40 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0; 
+}
+#image_body{
+	margin-top: 200px;
+	margin-left: 10px;
+	display: inline;
+}
+
+#image_table{
+	float:left;
+	margin-top: 85px;
+	margin-left: 10px;
+}
+
+#description_table{
+	margin-top:85px;
+	float:right;
+	width:500px;
+	padding-right: 20px;
+}
+#description{
+	
+	float:right;
+	width:500px;
+	min-height:100%;
+} 
+input{
+	border:1px solid #BDC7D8;
+	border-radius:5px;
+	color:black;
+	padding:10px;
+	width:300px;
+}
+th{
+	float:left;
+}
+
